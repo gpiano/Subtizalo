@@ -1,0 +1,20 @@
+[2020-04-23 21:00:13.425929] INFO: General: Subtitles Downloader started
+[2020-04-23 21:00:33.200450] INFO: General: 1 file(s) to be processed
+[2020-04-23 21:00:33.200659] INFO: BSPlayer: Sending request: logIn
+[2020-04-23 21:00:33.200757] INFO: BSPlayer: Try number 1 for operation logIn
+[2020-04-23 21:00:39.935878] INFO: BSPlayer: Logged in successfully
+[2020-04-23 21:00:45.772257] INFO: BSPlayer: Searching subtitles for /media/Movies/The.Shawshank.Redemption.1994.Bluray.1080p.TrueHD.x264-Grym.mkv (size=12716217025 hash=c0cfa8d29c765f66)
+[2020-04-23 21:00:45.772517] INFO: BSPlayer: Sending request: searchSubtitles
+[2020-04-23 21:00:45.772638] INFO: BSPlayer: Try number 1 for operation searchSubtitles
+[2020-04-23 21:00:46.263305] INFO: BSPlayer: Subtitles found
+[2020-04-23 21:00:46.350991] INFO: BSPlayer: Downloading subtitle for /media/Movies/The.Shawshank.Redemption.1994.Bluray.1080p.TrueHD.x264-Grym.mkv
+[2020-04-23 21:00:47.212828] INFO: BSPlayer: Sending request: logOut
+[2020-04-23 21:00:47.212973] INFO: BSPlayer: Try number 1 for operation logOut
+[2020-04-23 21:00:47.696874] INFO: BSPlayer: Logged out successfully
+[2020-04-23 21:00:47.697006] INFO: General: Subtitles Downloader finished
+[2020-04-23 22:40:25.353890] INFO: General: Subtitles Downloader started
+[2020-04-23 22:40:25.354584] INFO: General: 1 file(s) to be processed
+[2020-04-23 22:40:25.552917] INFO: subdivx: Searching subtitles for /media/Movies/The.Green.Mile.1999.1080p.BluRay.x264-HDMI/the.green.mile.1999.1080p.bluray.x264-hdmi.mkv
+[2020-04-23 22:40:35.985871] INFO: subdivx: Subtitle found
+[2020-04-23 22:40:35.986112] INFO: subdivx: Downloading subtitle for /media/Movies/The.Green.Mile.1999.1080p.BluRay.x264-HDMI/the.green.mile.1999.1080p.bluray.x264-hdmi.mkv
+[2020-04-23 22:40:37.439707] INFO: General: Subtitles Downloader finished

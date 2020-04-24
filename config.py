@@ -1,0 +1,10 @@
+SEARCH_FOLDER = "/media" # Folder to recursively search subtitles
+BSPLAYER_TIMEOUT = 10 # Timeout for each request against BS.Player server
+BSPLAYER_TRIES = 5 # Amount of tries for each request against BS.Player server
+AGE = 10 # Files days age for search the subtitles
+EMBEDDED = True # Skip files with embedded audio or subtitle (only for MKV)
+VERBOSE = False # Verbose log console output
+FILE_LOG = True # File log support
+FILE_LOG_FOLDER = "/logs" # File log folder
+USE_PROXY = False # Use proxy
+WS_SLEEP = 600 # Seconds to wait until resume subtitles searching (only for Windows Service)
