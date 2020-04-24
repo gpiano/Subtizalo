@@ -1,4 +1,4 @@
-# Spanish Subtitles Downloader
+# Subtizalo: A Spanish Subtitles Downloader
 
 An open source tool for downloading spanish subtitles for videos using BSPlayer and subdivx.
 
